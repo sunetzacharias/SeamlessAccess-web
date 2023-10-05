@@ -149,7 +149,7 @@ More information on how to integrate with SeamlessAccess, as well as our source 
     <td><a href="https://edusign.sunet.se/">Edusign.sunet.se</a></td>
   </tr>   
   <tr>
-    <td>SWAMID</td>
+    <td>SWAMID Swedens academic identity federation</td>
     <td>Limited</td>
     <td><a href="https://wiki.swamid.se/">Wiki.swamid.se</a> (click on Login button)</td>
   </tr>
@@ -173,6 +173,15 @@ More information on how to integrate with SeamlessAccess, as well as our source 
     <td>Standard</td>
     <td><a href="https://oce.ovid.com/journals/aaprac/202203000/02054229-202203000-00001">Ovid.com</a></td>
   </tr>    
-
+<tr>
+    <td>NORDUnet</td>
+    <td>Limited</td>
+    <td><a href="https://portal.nordu.net/">wiki.NORDU.net</a>(click on Login button)</td>
+  </tr>    
+<tr>
+    <td>WAYF Denmarks academic identity federation</td>
+    <td>Standard</td>
+    <td><a href="https://phph.wayf.dk/"></a></td>
+  </tr>    
 </table>
 
